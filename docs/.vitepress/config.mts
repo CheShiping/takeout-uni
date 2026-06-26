@@ -21,7 +21,7 @@ export default withMermaid(
       {
         text: '项目源码',
         items: [
-          { text: 'GitHub 仓库', link: 'https://github.com/shiping/takeout-uni' },
+          { text: 'GitHub 仓库', link: 'https://github.com/CheShiping/takeout-uni' },
         ]
       },
     ],
@@ -65,7 +65,7 @@ export default withMermaid(
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/shiping/takeout-uni' }
+      { icon: 'github', link: 'https://github.com/CheShiping/takeout-uni' }
     ],
 
     footer: {
@@ -97,7 +97,7 @@ export default withMermaid(
     },
 
     editLink: {
-      pattern: 'https://github.com/shiping/takeout-uni/edit/main/docs/:path',
+      pattern: 'https://github.com/CheShiping/takeout-uni/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页'
     },
 

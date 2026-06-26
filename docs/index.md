@@ -11,7 +11,7 @@ hero:
       link: /tutorials/01-项目概述与环境搭建
     - theme: alt
       text: 查看源码
-      link: https://github.com/shiping/takeout-uni
+      link: https://github.com/CheShiping/takeout-uni
 
 features:
   - icon: 🚀
