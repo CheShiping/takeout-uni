@@ -2,7 +2,7 @@
 
 外卖点餐系统 - 基于 uni-app 的跨平台移动端应用
 
-> 📚 **在线文档已上线！** 访问 [https://chshiping.github.io/takeout-uni/](https://chshiping.github.io/takeout-uni/) 查看完整教程文档，包含从环境搭建到构建发布的全流程指南。
+> 📚 **在线文档已上线！** 访问 [https://chshiping.github.io/takeout-uni/](https://cheshiping.github.io/takeout-uni/) 查看完整教程文档，包含从环境搭建到构建发布的全流程指南。
 
 ## 技术栈
 
